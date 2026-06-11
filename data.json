@@ -1,0 +1,19 @@
+[
+    {
+        "username": "Allan",
+        "projects": [
+            {
+                "name": "Portfolio",
+                "tasks": []
+            },
+            {
+                "name": "Portfolio",
+                "tasks": []
+            }
+        ]
+    },
+    {
+        "username": "Allano",
+        "projects": []
+    }
+]
