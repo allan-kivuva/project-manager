@@ -2,7 +2,7 @@ import argparse
 from tabulate import tabulate
 
 from models import User, Project, Task
-from storage import load_data, save_data
+from utils.storage import load_data, save_data
 
 
 def create_user(username):

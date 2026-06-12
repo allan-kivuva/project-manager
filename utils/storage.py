@@ -1,7 +1,7 @@
 import json
 import os
 
-FILE_NAME = "data.json"
+FILE_NAME = "data/data.json"
 
 def load_data():
     if not os.path.exists(FILE_NAME):
